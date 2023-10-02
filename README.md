@@ -1,5 +1,5 @@
 # titanic_spaceship_competition
-# ABOUT THE NOTEBOOK # Code appears between colons :🤩✴🌊🌊:
+# ABOUT THE NOTEBOOK # .Code appears between colons :🤩✴🌊🌊:
 
 * This notebook walks you through how to train a baseline Random Forest model using TensorFlow Decision Forests on the Spaceship Titanic dataset made available for this competition.Code appears between colons :🌊😁🧨:
 
