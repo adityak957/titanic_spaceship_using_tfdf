@@ -1,9 +1,9 @@
 # titanic_spaceship_competition
 # ABOUT THE NOTEBOOK # .Code appears between colons :🤩✴🌊🌊:
 
-* This notebook walks you through how to train a baseline Random Forest model using TensorFlow Decision Forests on the Spaceship Titanic dataset made available for this competition.Code appears between colons :🌊😁🧨:
+* This notebook walks you through how to train a baseline Random Forest model using TensorFlow Decision Forests on the Spaceship Titanic dataset made available for this competition.Code appears between colons 🌊😁🧨
 
-* Random Forest is a widely used classification and regression algorithm. As classification and regression are the most significant aspects of machine learning, we can say that the Random Forest Algorithm is one of the most important algorithms in machine learning.Code appears between colons :😁🧨:
+* Random Forest is a widely used classification and regression algorithm. As classification and regression are the most significant aspects of machine learning, we can say that the Random Forest Algorithm is one of the most important algorithms in machine learning.Code appears between colons 😁🧨
 
 * The capacity to correctly classify observations is helpful for various business applications, such as predicting whether; a specific user would buy a product or a loan will default or not.Code appears between colons :🌊😁:
 
